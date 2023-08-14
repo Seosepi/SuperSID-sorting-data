@@ -1,0 +1,1 @@
+csv_location = '/Users/Administrator.ADMINTR-8ULO5FO/OneDrive/VLF_folder/vlf_transmitters.csv'
